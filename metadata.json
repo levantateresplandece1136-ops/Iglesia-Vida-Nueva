@@ -1,0 +1,6 @@
+{
+  "name": "Iglesia Vida Nueva",
+  "description": "Sitio oficial de Iglesia Vida Nueva (IVN) en Tehuacán, México. Conéctate con nuestra comunidad, conoce nuestros horarios y accede a recursos espirituales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
