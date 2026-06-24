@@ -112,15 +112,7 @@ export default function About() {
                   <div className="absolute top-10 w-24 h-[3px] bg-white shadow-[0_0_15px_rgba(255,255,255,0.4)]" />
                 </div>
 
-                {/* Digital Congregation Overlay */}
-                <div className="w-full px-8 text-center mt-6">
-                  <span className="text-[10px] font-sans uppercase tracking-[0.25em] text-white/40 block">
-                    SANCTUARIO IVN
-                  </span>
-                  <span className="text-[9px] font-sans text-[#C8A96E]/50 uppercase tracking-widest mt-1 block">
-                    18° 28' 22" N | 97° 23' 15" W
-                  </span>
-                </div>
+
               </div>
             </motion.div>
           </div>
